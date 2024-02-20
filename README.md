@@ -15,7 +15,7 @@ Setting the OPENAI_API_KEY environment variable, or
 Entering the API key when prompted upon running the application.
 
 **Run the Streamlit application:**
-streamlit run AskGita.py
+streamlit run askGita.py
 
 **Access the application:**
 Once the application is running, you can access it by opening a web browser and navigating to http://localhost:8501.
