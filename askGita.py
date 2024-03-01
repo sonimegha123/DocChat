@@ -7,7 +7,7 @@ import getpass
 
 
 # Set the GOOGLE_API_KEY environment variable
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # Check if GOOGLE_API_KEY is not already set
 if "OPENAI_API_KEY" not in os.environ:
